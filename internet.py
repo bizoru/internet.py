@@ -4,7 +4,7 @@ import sys
 
 args = sys.argv
 cancion = args[1]
-os.system('ping google > result &')
+os.system('ping 8.8.8.8 > result &')
 internet = 0
 f = open('result','r')
 #os.system('killall ping')
