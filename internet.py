@@ -2,7 +2,6 @@ import os
 import time
 import sys
 
-# This is wrong|
 
 args = sys.argv
 cancion = args[1]
